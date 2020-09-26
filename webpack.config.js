@@ -18,6 +18,8 @@ module.exports = (env = {}) => {
             path: path.join(__dirname, 'build'),
         },
 
+        devtool: 'source-map',
+
         module: {
             rules: [
                 {

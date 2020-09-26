@@ -16,5 +16,13 @@
         "webpack": "^4.44.2",
         "webpack-cli": "^3.3.12",
         "webpack-dev-server": "3.11.0"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lloydevans/tiny-webpack.git"
+    },
+    "bugs": {
+        "url": "https://github.com/lloydevans/tiny-webpack/issues"
+    },
+    "homepage": "https://github.com/lloydevans/tiny-webpack#readme"
 }
